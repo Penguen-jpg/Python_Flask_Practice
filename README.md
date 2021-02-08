@@ -1,0 +1,2 @@
+# Python_Flask_Practice
+看youtube教學做的flask練習
